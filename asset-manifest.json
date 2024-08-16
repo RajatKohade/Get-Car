@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Get-Car/static/css/main.baaf5f80.css",
+    "main.js": "/Get-Car/static/js/main.e482a9fa.js",
+    "static/js/453.5e560239.chunk.js": "/Get-Car/static/js/453.5e560239.chunk.js",
+    "static/media/bg.jpg": "/Get-Car/static/media/bg.e5ef33a5b2aba39c0d0b.jpg",
+    "index.html": "/Get-Car/index.html",
+    "main.baaf5f80.css.map": "/Get-Car/static/css/main.baaf5f80.css.map",
+    "main.e482a9fa.js.map": "/Get-Car/static/js/main.e482a9fa.js.map",
+    "453.5e560239.chunk.js.map": "/Get-Car/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baaf5f80.css",
+    "static/js/main.e482a9fa.js"
+  ]
+}
