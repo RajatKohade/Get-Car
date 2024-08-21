@@ -1,0 +1,27 @@
+-------------------------Volvo XC60-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Small SUV 4WD
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Gas/Electric I4
+Displacement (liters/cubic inches)=2.0 L/120
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=247 @ 5400
+Maximum Torque @ RPM=258 @ 1800
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=25 / 23 / 29
+Fuel Capacity / Gas Tank Size=18.8
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=112.8
+Length (inches)=185.4
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

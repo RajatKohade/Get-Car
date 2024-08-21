@@ -1,0 +1,29 @@
+-------------------------BMW 4 series-------------------------------------------
+Vehicle--------------------------------------------------------------------  
+EPA Classification=Subcompact Cars
+Drivetrain=Rear Wheel Drive
+Engine-------------------------------------------------------------------- 
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Premium Unleaded I4
+Displacement (liters/cubic inches)=2.0 L/122
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower@ RPM=255 @ 5000
+Maximum Torque @ RPM=295 @ 1550
+Cooling System Capacity (quarts)=NA
+Transmission------------------------------------------------------------------ 
+Transmission Order Code=2TB
+Transmission Description=Automatic w/OD
+Number of Transmission=Speeds 8
+Fuel Economy----------------------------------------------------------------- 
+Fuel Capacity / Gas Tank Size=15.6
+EPA Fuel Economy combined/city/highway (mpg)=28 / 25 / 3
+Dimensions---------------------------------------------------------------- 
+Wheelbase (inches)=112.2
+Length (inches)=187.9
+Width= without mirrors (inches)=73
+Suspension---------------------------------------------------------------- 
+Front Suspension Type=Strut
+Rear Suspension Type=MultiLink
+Brakes------------------------------------------------------------------- 
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

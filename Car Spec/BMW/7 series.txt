@@ -1,0 +1,28 @@
+-------------------------BMW 7 series-------------------------------------------
+Vehicle---------------------------------------------------------  
+EPA Classification=Large Cars
+Drivetrain=Rear Wheel Drive
+Engine ----------------------------------------------------------- 
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Gas/Electric I6
+Displacement (liters/cubic inches)=3.0 L/183
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=375 @ 5200
+Maximum Torque @ RPM=383 @ 1850
+Cooling System Capacity (quarts)=NA
+Transmission----------------------------------------------------  
+Transmission Order Code=2TB
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range --------------------------------------------- 
+EPA Fuel Economy combined/city/highway (mpg)=27 / 25 / 31
+Fuel Capacity / Gas Tank Size=19.5
+Dimensions---------------------------------------------  
+Wheelbase (inches)=126.6
+Length (inches)=212.2
+Suspension ----------------------------------------
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

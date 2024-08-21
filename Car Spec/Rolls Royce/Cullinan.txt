@@ -1,0 +1,27 @@
+-------------------------Rolls Royce Cullinan-------------------------------------------
+Vehicle--------------------------------------------------------   
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Twin Turbo Premium Unleaded V12
+Displacement (liters/cubic inches)=6.7 L/412
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=563 @ 5000
+Maximum Torque @ RPM=627 @ 1700
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy=14 / 12 / 19
+Fuel Capacity / Gas Tank Size=23.8
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=130
+Length (inches)=210
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

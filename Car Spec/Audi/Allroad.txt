@@ -1,0 +1,27 @@
+-------------------------Audi Allroad-------------------------------------------
+Vehicle-------------------------------------------------------
+EPA Classification,Midsize Station Wagons
+Drivetrain,All Wheel Drive
+Engine---------------------------------------------------------------
+Engine Order Code,NA
+Engine Type and Required,Fuel Intercooled Turbo Gas/Electric V6
+Displacement (liters/cubic inches),3.0 L/183
+Fuel System,Gasoline Direct Injection
+Maximum Horsepower @ RPM,335 @ 5000
+Maximum Torque @ RPM,369 @ 1370
+Transmission-------------------------------------------------------
+Transmission Order Code,2Y
+Transmission Description,AutoShift Manual w/OD
+Number of Transmission Speeds,7
+Fuel Economy and Range------------------------------------------------------
+Fuel Capacity / Gas Tank Size,19.3
+EPA Fuel Economy combined/city/highway (mpg),25 / 22 / 30
+Dimensions---------------------------------------------------------------------
+Wheelbase (inches),115.2
+Length (inches),194.9
+Brakes-------------------------------------------------------------------------
+Brake Type,4Wheel Disc
+AntiLockBraking System,4Wheel
+Suspension------------------------------------------------------------------------
+Front Suspension Type,MultiLink
+Rear Suspension Type,MultiLink

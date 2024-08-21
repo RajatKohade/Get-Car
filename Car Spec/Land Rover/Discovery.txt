@@ -1,0 +1,28 @@
+-------------------------Land Rover Discovery-------------------------------------------
+Vehicle--------------------------------------------------------   
+Drivetrain=Four Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Premium Unleaded I4
+Displacement (liters/cubic inches)=2.0 L/122
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=296 @ 5500
+Maximum Torque @ RPM=295 @ 1500
+Cooling System Capacity (quarts)=NA
+Engine Oil Cooler=Regular Duty
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range 
+EPA Fuel Economy combined/city/highway (mpg)=21 / 19  / 22
+Fuel Capacity / Gas Tank Size=23.8
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=115.1
+Length (inches)=195.1
+Suspension 
+Front Suspension Type=Short And Long Arm
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

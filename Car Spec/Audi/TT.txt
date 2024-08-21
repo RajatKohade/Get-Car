@@ -1,0 +1,30 @@
+-------------------------Audi TT-------------------------------------------
+Vehicle-------------------------------------------------------------------------- 
+EPA Classification=Subcompact Cars
+Drivetrain=All Wheel Drive
+Engine------------------------------------------------------------------------ 
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Premium Unleaded I4
+Displacement (liters/cubic inches)=2.0 L/121
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=228 @ 4500
+Maximum Torque @ RPM=258 @ 1600
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------------- 
+Transmission Order Code=EY
+Transmission Description=AutoShift Manual w/OD
+Number of Transmission Speeds=7
+Fuel Economy and Range------------------------------------------------ 
+Fuel Capacity / Gas Tank Size=14.5
+EPA Fuel Economy combined/city/highway (mpg)=25 / 23 / 30
+Dimensions-------------------------------------------------------- 
+Wheelbase (inches)=98.6
+Length (inches)=165
+Suspension ----------------------------------------------------------
+Front Suspension Type=Strut
+Rear Suspension Type=MultiLink
+Brakes------------------------------------------------------------- 
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel
+
+

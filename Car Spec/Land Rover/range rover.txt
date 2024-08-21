@@ -1,0 +1,27 @@
+-------------------------Land Rover Range Rover------------------------------------------
+Vehicle--------------------------------------------------------   
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Gas/Electric I6
+Displacement (liters/cubic inches)=3.0 L/183
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=395 @ 5500
+Maximum Torque @ RPM=406 @ 2000
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=21  / 18  / 26
+Fuel Capacity / Gas Tank Size=23.8
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=118
+Length (inches)=198.9
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

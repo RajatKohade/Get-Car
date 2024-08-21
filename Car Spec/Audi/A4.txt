@@ -1,0 +1,30 @@
+-------------------------Audi A4-------------------------------------------
+Vehicle---------------------------------------------------------------------
+EPA Classification=Compact Cars
+Drivetrain=All Wheel Drive
+Engine-------------------------------------------------------------------------
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Gas/Electric I-4
+Displacement (liters/cubic inches)=2.0 L/121
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=201 @ 4200
+Maximum Torque @ RPM=236 @ 1450
+Transmission------------------------------------------------------------
+Transmission Order Code=ZY
+Transmission Description=Auto-Shift Manual w/OD
+Number of Transmission Speeds=7
+Fuel Economy and Range
+Fuel Capacity / Gas Tank Size=15.3
+EPA Fuel Economy combined/city/highway (mpg)=30 / 26 / 35
+Dimensions---------------------------------------------------------------------
+Wheelbase (inches)=111
+Length (inches)=187.5
+Suspension-----------------------------------------------------------------------
+Front Suspension Type=Multi-Link
+Rear Suspension Type=Multi-Link
+Brakes----------------------------------------------------------------------------
+Brake Type=4-Wheel Disc
+Anti-Lock-Braking System=4-Wheel
+
+
+

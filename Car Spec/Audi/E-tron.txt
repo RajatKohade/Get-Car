@@ -1,0 +1,28 @@
+-------------------------Audi E-tron-------------------------------------------
+Vehicle------------------------------------------------------------------------------
+EPA Classification=Midsize Cars
+Drivetrain=All Wheel Drive
+Engine-------------------------------------------------------------------------------
+Engine Order Code=NA
+Engine Type and Required=Fuel Electric
+Displacement (liters/cubic inches)=NA
+Fuel System=NA
+Maximum Horsepower @ RPM=469
+Maximum Torque @ RPM=464
+Transmission-----------------------------------------------------------------------
+Transmission Order Code=J7
+Transmission Description=Automatic
+Number of Transmission Speeds=2
+Dimensions--------------------------------------------------------------------------
+Wheelbase (inches)=114.1
+Length (inches)=196.4
+Suspension---------------------------------------------------------------------------
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes-----------------------------------------------------------------------------
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel
+
+
+
+

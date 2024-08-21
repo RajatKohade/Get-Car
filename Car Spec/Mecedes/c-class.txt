@@ -1,0 +1,27 @@
+-------------------------Mercedes C class-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Compact Cars
+Drivetrain=Rear Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Gas/Electric I4
+Displacement (liters/cubic inches)=2.0 L/122
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=255 @ 5800
+Maximum Torque @ RPM=295 @ 2000
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=9
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=30 / 26 / 36
+Fuel Capacity / Gas Tank Size=17.4
+Dimensions--------------------------------------------------------   
+Wheelbase (inches) =112.8
+Length (inches)=187
+Suspension--------------------------------------------------------   
+Front Suspension Type=Strut
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

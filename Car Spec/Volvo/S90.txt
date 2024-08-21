@@ -1,0 +1,28 @@
+-------------------------Volvo S90-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Midsize Cars 
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Gas/Electric I4
+Displacement (liters/cubic inches)=2.0 L/120
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=295 @ 5400
+Maximum Torque @ RPM=310 @ 2100
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=25 / 22 / 31
+Fuel Capacity / Gas Tank Size=15.9
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=120.5
+Length (inches)=200.4
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

@@ -1,0 +1,28 @@
+-------------------------Mercedes A class-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Subcompact Cars
+Drivetrain=Front Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Premium Unleaded I4
+Displacement (liters/cubic inches)=2.0 L/121
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=188 @ 5800
+Maximum Torque @ RPM=221 @ 1600
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=AutoShift Manual w/OD
+Number of Transmission Speeds=7
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=28 / 24 / 35
+Fuel Capacity / Gas Tank Size=13.5
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=107.4
+Length (inches)=179.1
+Suspension--------------------------------------------------------   
+FrontSuspension Type=Strut
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

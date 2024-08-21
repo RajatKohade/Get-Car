@@ -1,0 +1,28 @@
+-------------------------Rolls Royce Ghost-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Large Cars
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Twin Turbo Premium Unleaded V12
+Displacement (liters/cubic inches)=6.7 L/412
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=563 @ 5000
+Maximum Torque @ RPM=627 @ 1600
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=14 / 12 / 19
+Fuel Capacity / Gas Tank Size=21.8
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=129.7
+Length (inches)=212.6
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

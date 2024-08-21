@@ -1,0 +1,29 @@
+-------------------------BMW M2-------------------------------------------
+Vehicle---------------------------------------------------------  
+EPA Classification=Subcompact Cars
+Drivetrain=Rear Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Twin Turbo Premium Unleaded I6
+Displacement (liters/cubic inches)=3.0 L/183
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=453 @ 6250
+Maximum Torque @ RPM=406 @ 2650
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=2MA
+Transmission Description=Manual w/OD
+Number of Transmission Speeds=6
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=19 / 16 / 24
+Fuel Capacity / Gas Tank Size=13.7
+Dimensions--------------------------------------------------------    
+Wheelbase (inches)=108.1
+Length (inches)=180.3
+Suspension--------------------------------------------------------    
+Front Suspension Type=Strut
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------    
+Brake Type 4Wheel=Disc
+AntiLockBraking System=4Wheel
+

@@ -1,0 +1,28 @@
+-------------------------Rolls Royce Dawn-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Compact Cars
+Drivetrain Rear=Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Twin Turbo Premium Unleaded V12
+Displacement (liters/cubic inches)=6.6 L/402
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=563 @ 5250
+Maximum Torque @ RPM=605 @ 1500
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=14 / 12 / 18
+Fuel Capacity / Gas Tank Size=21.7
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=122.5
+Length (inches)=208.5
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

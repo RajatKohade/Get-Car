@@ -1,0 +1,26 @@
+-------------------------Audi Q8-------------------------------------------
+Vehicle---------------------------------------------------------------- 
+Drivetrain All,Wheel Drive
+Engine------------------------------------------------------------------  
+Engine Order Code,NA
+Engine Type and Required,Fuel Intercooled Turbo Gas/Electric V6
+Displacement (liters/cubic inches),3.0 L/183
+Fuel System,Gasoline Direct Injection
+Maximum Horsepower @ RPM,335 @ 5700
+Maximum Torque @ RPM,369 @ 2800
+Transmission-------------------------------------------------------------
+Transmission Order Code,X2
+Transmission Description,Automatic w/OD
+Number of Transmission Speeds,8
+Fuel Economy and Range------------------------------------------------------ 
+Fuel Capacity / Gas Tank Size,22.5
+EPA Fuel Economy combined/city/highway (mpg),19 / 17 / 23
+Dimensions---------------------------------------------------------------------- 
+Wheelbase (inches),117.9
+Length (inches),196.6
+Suspension----------------------------------------------------------------------- 
+Front Suspension Type,MultiLink
+Rear Suspension Type,MultiLink
+Brakes-------------------------------------------------------------------------
+Brake Type,4Wheel Disc
+AntiLockBraking System,4Wheel

@@ -1,0 +1,27 @@
+-------------------------Land Rover Evoque-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Small SUV 4WD
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Premium Unleaded I4
+Displacement (liters/cubic inches)=2.0 L/122
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=246 @ 5500
+Maximum Torque @ RPM=269 @ 1300
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=9
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=22 / 20 / 27
+Fuel Capacity / Gas Tank Size=17.7
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=105.6
+Length (inches)=172.1
+Suspension--------------------------------------------------------   
+Front Suspension Type=Strut
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

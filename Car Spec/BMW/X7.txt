@@ -1,0 +1,27 @@
+-------------------------BMW X7-------------------------------------------
+Vehicle--------------------------------------------------------    
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------    
+Engine Order Code=NA
+Engine Type and Required Fuel=Intercooled Turbo Gas/Electric I6
+Displacement (liters/cubic inches)=3.0 L/183
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=375 @ 5200
+Maximum Torque @ RPM=398 @ 1850
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------    
+Transmission Order Code=2TB
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=8
+Fuel Economy and Range 
+EPA Fuel Economy=22 / 21 / 2
+Fuel Capacity / Gas Tank Size=21.9
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=122.2
+Length (inches)=203.6
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------    
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

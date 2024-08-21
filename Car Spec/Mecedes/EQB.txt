@@ -1,0 +1,24 @@
+-------------------------Mercedes EQB-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Small SUV 4WD
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Electric
+Displacement (liters/cubic inches)=NA
+Fuel System=NA
+Maximum Horsepower @ RPM=225
+Maximum Torque @ RPM=288
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic
+Number of Transmission Speeds=1
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=111.3
+Length (inches)=184.4
+Suspension--------------------------------------------------------   
+Front Suspension Type=Strut
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

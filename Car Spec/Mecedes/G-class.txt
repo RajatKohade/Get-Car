@@ -1,0 +1,27 @@
+-------------------------Mercedes G class (Wagon)-------------------------------------------
+Vehicle--------------------------------------------------------  
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Twin Turbo Premium Unleaded V8
+Displacement (liters/cubic inches)=4.0 L/243
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=416 @ 5250
+Maximum Torque @ RPM=450 @ 2000
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=9
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy=14 / 13 / 16
+Fuel Capacity / Gas Tank Size=26.4
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=113.8
+Length (inches)=189.7
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=Trailing Link
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

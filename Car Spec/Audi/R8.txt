@@ -1,0 +1,27 @@
+-------------------------Audi R8-------------------------------------------
+Vehicle-------------------------------------------------------------------------------------- 
+EPA Classification=Two Seaters
+Drivetrain=All Wheel Drive
+Engine---------------------------------------------------------------------------------
+Engine Order Code=NA
+Engine Type and Required=Fuel Premium Unleaded V10
+Displacement (liters/cubic inches)=5.2 L/318
+Fuel System=Port/Direct Injection
+Maximum Horsepower @ RPM=602 @ 8100
+Maximum Torque @ RPM=413 @ 6700
+Transmission-------------------------------------------------------------------------------- 
+Transmission Order Code=BE
+Transmission Description=AutoShift Manual w/OD
+Number of Transmission Speeds=7
+Fuel Economy and Range----------------------------------------------------------------- 
+Fuel Capacity / Gas Tank Size=19.3
+EPA Fuel Economy combined/city/highway (mpg)=15 / 13 / 18
+Dimensions----------------------------------------------------------------------------- 
+Wheelbase (inches)=104.3
+Length (inches)=174.4
+Suspension--------------------------------------------------------------------------- 
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=Double Wishbone
+Brakes------------------------------------------------------------------------------ 
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel

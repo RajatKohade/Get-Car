@@ -1,0 +1,28 @@
+-------------------------Mercedes S class-------------------------------------------
+Vehicle--------------------------------------------------------   
+EPA Classification=Large Cars
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Twin Turbo Premium Unleaded V12
+Displacement (liters/cubic inches)=6.0 L/365
+Fuel System Sequential=MPI
+Maximum Horsepower @ RPM=621 @ 5250
+Maximum Torque @ RPM=664 @ 2000
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=9
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy combined/city/highway (mpg)=15 / 12 / 21
+Fuel Capacity / Gas Tank Size=22.2
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=133.7
+Length (inches)=215.3
+Suspension--------------------------------------------------------   
+Front Suspension Type=MultiLink
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel
+

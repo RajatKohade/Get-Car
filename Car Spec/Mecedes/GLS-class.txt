@@ -1,0 +1,27 @@
+-------------------------Mercedes  GLS-------------------------------------------
+Vehicle--------------------------------------------------------   
+Drivetrain=All Wheel Drive
+Engine--------------------------------------------------------   
+Engine Order Code=NA
+Engine Type and Required=Fuel Intercooled Turbo Gas/Electric I6
+Displacement (liters/cubic inches)=3.0 L/183
+Fuel System=Gasoline Direct Injection
+Maximum Horsepower @ RPM=375 @ 5500
+Maximum Torque @ RPM=369 @ 1600
+Cooling System Capacity (quarts)=NA
+Transmission--------------------------------------------------------   
+Transmission Order Code=NA
+Transmission Description=Automatic w/OD
+Number of Transmission Speeds=9
+Fuel Economy and Range--------------------------------------------------------   
+EPA Fuel Economy=21 / 19 / 24
+Fuel Capacity / Gas Tank Size=23.8
+Dimensions--------------------------------------------------------   
+Wheelbase (inches)=123.4
+Length (inches)=205
+Suspension--------------------------------------------------------   
+Front Suspension Type=Double Wishbone
+Rear Suspension Type=MultiLink
+Brakes--------------------------------------------------------   
+Brake Type=4Wheel Disc
+AntiLockBraking System=4Wheel
