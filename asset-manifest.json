@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Get-Car/static/css/main.abfac079.css",
-    "main.js": "/Get-Car/static/js/main.f9d341c1.js",
+    "main.js": "/Get-Car/static/js/main.c3aae887.js",
     "static/js/72.b704acdb.chunk.js": "/Get-Car/static/js/72.b704acdb.chunk.js",
     "static/js/325.2f23fd1b.chunk.js": "/Get-Car/static/js/325.2f23fd1b.chunk.js",
     "static/js/453.bea66239.chunk.js": "/Get-Car/static/js/453.bea66239.chunk.js",
     "static/media/bg.jpg": "/Get-Car/static/media/bg.e5ef33a5b2aba39c0d0b.jpg",
     "index.html": "/Get-Car/index.html",
     "main.abfac079.css.map": "/Get-Car/static/css/main.abfac079.css.map",
-    "main.f9d341c1.js.map": "/Get-Car/static/js/main.f9d341c1.js.map",
+    "main.c3aae887.js.map": "/Get-Car/static/js/main.c3aae887.js.map",
     "72.b704acdb.chunk.js.map": "/Get-Car/static/js/72.b704acdb.chunk.js.map",
     "325.2f23fd1b.chunk.js.map": "/Get-Car/static/js/325.2f23fd1b.chunk.js.map",
     "453.bea66239.chunk.js.map": "/Get-Car/static/js/453.bea66239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abfac079.css",
-    "static/js/main.f9d341c1.js"
+    "static/js/main.c3aae887.js"
   ]
 }
